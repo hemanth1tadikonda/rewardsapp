@@ -2,33 +2,33 @@
 customerName	:	Jeffery
 rewardsPerMonth
 
-month	:	NOVEMBER
-rewards	:	450
-totalRewardsEarned	:	450
+month:	NOVEMBER
+rewards:	450
+totalRewardsEarned:	450
 
 
 
 customerName	:	Robert
 rewardsPerMonth
-month	:	OCTOBER
+month:	OCTOBER
 
-rewards	:	158
-month	:	SEPTEMBER
-rewards	:	90
+rewards:	158
+month:	SEPTEMBER
+rewards:	90
 
-month	:	NOVEMBER
-rewards	:	4
-totalRewardsEarned	:	252
+month:	NOVEMBER
+rewards:	4
+totalRewardsEarned:	252
 
 
 
-customerName	:	Smith
+customerName:	Smith
 rewardsPerMonth
 
-month	:	OCTOBER
-rewards	:	250
+month:	OCTOBER
+rewards:	250
 
-month	:	NOVEMBER
-rewards	:	0
-totalRewardsEarned	:	250
+month:	NOVEMBER
+rewards:	0
+totalRewardsEarned:	250
 
